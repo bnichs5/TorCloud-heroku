@@ -1,5 +1,5 @@
 ## ===== Information =====
-This repository allow to deploy [Tcloud app](https://github.com/bnichs5/torCloud) on Heroku platform. To install it on other platforms please see [Tcloud repository](https://github.com/bnichs5/torCloud)
+This repository allow to deploy [TorCloud app](https://github.com/bnichs5/torCloud) on Heroku platform. To install it on other platforms please see [TorCloud repository](https://github.com/bnichs5/torCloud)
 
 ## ===== View =====
 
