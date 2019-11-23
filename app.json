@@ -1,7 +1,7 @@
 {
 	"name": "Torcloud",
 	"description": "File sharing and torrent downloading",
-	"repository": "https://github.com/bnichs5/tcloud",
+	"repository": "https://github.com/bnichs5/torCloud",
 	"logo": "https://node-js-sample.herokuapp.com/node.png",
 	"keywords": [
 		"torrent",
